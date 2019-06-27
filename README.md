@@ -18,3 +18,8 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * Include tests and documentation;
 * Clean up "oops" commits before submitting;
 * Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
+
+
+#### How to Run this Program
+*Download and Paste every thing in your directory
+*Open cmd and run this command -python YOLO.py --image image.jpg --config yolov3.cfg --weights yolov3.weights --classes yolov3.txt into the cmd 
